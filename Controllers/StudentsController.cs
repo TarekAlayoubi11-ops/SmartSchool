@@ -14,7 +14,8 @@ namespace SmartSchool.Controllers
         private readonly string _connectionString;
         public StudentsController(IConfiguration configuration)
         {
-            _connectionString = configuration.GetConnectionString("DefaultConnection");
+            _connectionString = configuration.GetConnectionString("DefaultConnection")
+    ?? throw new ArgumentNullException("Connection string 'DefaultConnection' not found.");
         }
 
 
@@ -27,26 +28,26 @@ namespace SmartSchool.Controllers
 
             if (!result.Success)
             {
-                if (result.Message.Contains("No students"))
-                    return NotFound(result.Message);
-                else
-                    return StatusCode(500, result.Message);
+                if (result.Message!.Contains("No students"))    
+                    return NotFound(result.Message);    
+                else   
+                    return StatusCode(500, result.Message);    
             }
-
-            return Ok(result.Data);
+                                         
+            return Ok(result.Data);        
         }
 
 
 
 
         [HttpGet("{id}")]
-        public ActionResult GetStudentById([FromBody] int id)
+        public ActionResult GetStudentById( int id)
         {
             var result = StudentBll.GetStudentById(id, _connectionString);
 
             if (!result.Success)
             {
-                if (result.Message.Contains("not found"))
+                if (result.Message!.Contains("not found"))
                     return NotFound(result.Message);
                 else
                     return StatusCode(500, result.Message);
@@ -100,7 +101,7 @@ namespace SmartSchool.Controllers
 
 
         [HttpDelete("{id}")]
-        public ActionResult DeleteStudent([FromBody] int id)
+        public ActionResult DeleteStudent( int id)
         {
 
             if (id <= 0)
