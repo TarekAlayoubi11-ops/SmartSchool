@@ -22,9 +22,9 @@ namespace SmartSchool.Controllers
 
 
         [HttpGet("Students")]
-        public ActionResult<IEnumerable<StudentDTO>> GetAllStudents()
+        public ActionResult<IEnumerable<StudentDTO>> GetAllActiveStudents()
         {
-            var result = StudentBll.GetAllStudents(_connectionString);
+            var result = StudentBll.GetAllActiveStudents(_connectionString);
 
             if (!result.Success)
             {
@@ -41,8 +41,11 @@ namespace SmartSchool.Controllers
 
 
         [HttpGet("{id}")]
-        public ActionResult GetStudentById( int id)
+        public ActionResult<StudentDTO> GetStudentById( int id)
         {
+            if (id <= 0)
+                return BadRequest("StudentId is invalid.");
+            
             var result = StudentBll.GetStudentById(id, _connectionString);
 
             if (!result.Success)
@@ -61,7 +64,7 @@ namespace SmartSchool.Controllers
 
 
         [HttpPost]
-        public ActionResult CreateStudentWithEnrollment([FromBody] CreateStudentDTO student)
+        public ActionResult CreateStudent([FromBody] CreateStudentDTO student)
         {
             if (student == null)
                 return BadRequest("Student data is required.");
@@ -84,16 +87,14 @@ namespace SmartSchool.Controllers
             if (string.IsNullOrWhiteSpace(student.Gender))
                 return BadRequest("Gender is required.");
 
-            if (student.SectionId <= 0)
-                return BadRequest("SectionId is invalid.");
+            
 
-            var result = StudentBll.CreateStudentWithEnrollment(student, _connectionString);
+            var result = StudentBll.CreateStudent(student, _connectionString);
             return result.Code switch
             {
                 > 0 => Ok(new { StudentId = result.Code, Message = result.Message }),
                 -1 => StatusCode(500, result.Message),
                 -2 => Conflict(result.Message),
-                -3 => NotFound(result.Message),
                 _ => StatusCode(500, result.Message)
             };
         }
