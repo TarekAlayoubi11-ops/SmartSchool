@@ -1,0 +1,17 @@
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.BLL.deps.json
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.BLL.dll
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.BLL.pdb
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.DAL.dll
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.DTOs.dll
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.DAL.pdb
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\bin\Debug\net8.0\SmartSchool.DTOs.pdb
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.AssemblyInfo.cs
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSch.DF3C75BA.Up2Date
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.dll
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\refint\SmartSchool.BLL.dll
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\SmartSchool.BLL.pdb
+C:\Users\hp\Documents\Projects\SmartSchool\SmartSchool\SmartSchool.BLL\obj\Debug\net8.0\ref\SmartSchool.BLL.dll

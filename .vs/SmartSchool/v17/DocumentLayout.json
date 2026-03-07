@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\feeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\feeitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\examresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\examresultscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\classsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\classsubjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\classescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\authorization\\userowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\authorization\\userowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\dtos\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFFA6F98-AE16-4F32-9FC6-8456B18E395C}|SmartSchool\\SmartSchool.csproj|solutionrelative:smartschool\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C2C8F1-08FA-4C57-9B94-75DC0EA3FF3C}|SmartSchool.BLL\\SmartSchool.BLL.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C2C8F1-08FA-4C57-9B94-75DC0EA3FF3C}|SmartSchool.BLL\\SmartSchool.BLL.csproj|solutionrelative:smartschool.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3931B40A-18E3-4B17-B5EF-E573ED3477C2}|SmartSchool.DAL\\SmartSchool.DAL.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3931B40A-18E3-4B17-B5EF-E573ED3477C2}|SmartSchool.DAL\\SmartSchool.DAL.csproj|solutionrelative:smartschool.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3A8B99-09EC-472D-8C5E-782ECED5A668}|SmartSchool.DTOs\\SmartSchool.DTOs.csproj|c:\\users\\hp\\documents\\projects\\smartschool\\smartschool\\smartschool.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3A8B99-09EC-472D-8C5E-782ECED5A668}|SmartSchool.DTOs\\SmartSchool.DTOs.csproj|solutionrelative:smartschool.dtos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAwHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:21:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAuwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:20:24.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAuwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:19:49.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAuwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:19:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\SectionsController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAswJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:18:20.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:17:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\InvoicesController.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAswJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:16:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeeItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\FeeItemsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\FeeItemsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\FeeItemsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\FeeItemsController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:16:22.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ExamsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\ExamsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ExamsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\ExamsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:15:48.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamResultsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ExamResultsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\ExamResultsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ExamResultsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\ExamResultsController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:15:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAswI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:14:29.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassSubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ClassSubjectsController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\ClassSubjectsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ClassSubjectsController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\ClassSubjectsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA7wFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:13:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ClassesController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\ClassesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\ClassesController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\ClassesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA7wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:13:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SmartSchool\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAswLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:12:55.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserOwnerOrAdminRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "RelativeToolTip": "SmartSchool\\Authorization\\UserOwnerOrAdminRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:09:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserOwnerOrAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "RelativeToolTip": "SmartSchool\\Authorization\\UserOwnerOrAdminHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:09:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\DTOs\\Auth\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "SmartSchool\\DTOs\\Auth\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:08:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RefreshRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\DTOs\\Auth\\RefreshRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeToolTip": "SmartSchool\\DTOs\\Auth\\RefreshRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:07:46.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\DTOs\\Auth\\LogoutRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\LogoutRequest.cs",
+              "RelativeToolTip": "SmartSchool\\DTOs\\Auth\\LogoutRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:07:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\DTOs\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\DTOs\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "SmartSchool\\DTOs\\Auth\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:06:53.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartSchool\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartSchool\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T20:05:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartSchool\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\appsettings.json",
+              "RelativeToolTip": "SmartSchool\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-07T20:05:07.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Program.cs",
+              "RelativeDocumentMoniker": "SmartSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool\\Program.cs",
+              "RelativeToolTip": "SmartSchool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:04:37.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "SmartSchool.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.BLL\\Class1.cs",
+              "RelativeToolTip": "SmartSchool.BLL\\Class1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:59:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "SmartSchool.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.DAL\\Class1.cs",
+              "RelativeToolTip": "SmartSchool.DAL\\Class1.cs",
+              "ViewState": "AQIAAFwHAAAAAAAAAAAowAYIAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:59:12.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.DTOs\\Class1.cs",
+              "RelativeDocumentMoniker": "SmartSchool.DTOs\\Class1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\Projects\\SmartSchool\\SmartSchool\\SmartSchool.DTOs\\Class1.cs",
+              "RelativeToolTip": "SmartSchool.DTOs\\Class1.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAkwHABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:58:44.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
